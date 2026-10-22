@@ -18,5 +18,5 @@ Here are some ideas to get you started:
     - Approximate Computation
     - Approximate Communication
   -  In summary, I _love_ digital logic design!
-- ⚡ Fun fact: "We can't afford to be neutral on a moving train"
+- ⚡ "We can't afford to be neutral on a moving train"
 
